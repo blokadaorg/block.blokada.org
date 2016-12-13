@@ -1,0 +1,42 @@
+.content {
+	text-align: justify;
+}
+
+/* Orange */
+.theme-base-blokada .label {
+  background-color: #df5401;
+}
+
+.theme-base-blokada .pagination > li > a,
+.theme-base-blokada .pagination > li > span {
+  color: #df5401;
+}
+
+.theme-base-blokada .pagination > .active > a,
+.theme-base-blokada .pagination > .active > span,
+.theme-base-blokada .pagination > .active > a:hover,
+.theme-base-blokada .pagination > .active > span:hover,
+.theme-base-blokada .pagination > .active > a:focus,
+.theme-base-blokada .pagination > .active > span:focus {
+  background-color: #df5401;
+  border-color: #df5401;
+}
+
+.theme-base-blokada .pagination > .disabled > span,
+.theme-base-blokada .pagination > .disabled > span:hover,
+.theme-base-blokada .pagination > .disabled > span:focus,
+.theme-base-blokada .pagination > .disabled > a,
+.theme-base-blokada .pagination > .disabled > a:hover,
+.theme-base-blokada .pagination > .disabled > a:focus {
+  color: #777;
+  background-color: #fff;
+  border-color: #ddd;
+}
+
+.theme-base-blokada .sidebar {
+  background-color: #1D1D1D;
+}
+.theme-base-blokada .content a,
+.theme-base-blokada .related-posts li a:hover {
+  color: #df5401;
+}

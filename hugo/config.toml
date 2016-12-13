@@ -1,0 +1,74 @@
+baseurl = "http://block.blokada.org/"
+title = "The Block. All about ad blocking."
+languageCode = "en-us"
+disqusShortname = "blokada" # Optional, enable Disqus integration
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Blokada Admin"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/post/:year/:month/:day/:title/"
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # If false display full article contents in blog index.
+    # Otherwise show description and 'read on' link to individual blog post page.
+    # Default (if omitted) is true.
+    truncate = false
+
+    # Used when a given page doesn't set its own.
+    defaultDescription = "The Block is a blog about ad blocking and ad blockers. It's also home of Blokada - a free, compact, fast ad blocker for Android that works for all apps and does not require root."
+    defaultKeywords = "adblocker,adblocking,blokada,android,apps,ads,privacy,tracking"
+
+    # Hide estimated reading time for posts.
+    # Default (if omitted) is false.
+    hideReadingTime = true
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "theme-base-blokada layout-reverse"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "github"
+
+    # Optional additional custom CSS file URL, will override other styles.
+    customCSS = "/css/blokada.css"
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "All about ad blocking."
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "The Block"
+
+    # Metadata used to drive integrations.
+    googleAnalytics = "UA-87669658-2"
+    gravatarHash = "fa7766fbbc0ba34428f67f57668f2f7f"
+
+    # Sidebar social links, these must be full URLs.
+    github = "http://go.blokada.org/dev_home"
+    bitbucket = ""
+    stackOverflow = ""
+    linkedin = ""
+    googleplus = "http://go.blokada.org/social_gplus"
+    facebook = "http://go.blokada.org/social_facebook"
+    twitter = "http://go.blokada.org/social_twitter"
+    youtube = ""
+
+    # Other social-like sidebar links
+    # rss = true # switch to true to enable RSS icon link
+    # flattr = ""  # populate with your flattr uid

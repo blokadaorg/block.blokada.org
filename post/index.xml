@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Block. All about ad blocking.</title>
+    <link>http://block.blokada.org/post/</link>
+    <description>Recent content in Posts on The Block. All about ad blocking.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Dec 2016 12:00:00 +0100</lastBuildDate>
+    <atom:link href="http://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to The Block</title>
+      <link>http://block.blokada.org/post/2016/12/13/welcome-to-the-block/</link>
+      <pubDate>Tue, 13 Dec 2016 12:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2016/12/13/welcome-to-the-block/</guid>
+      <description>&lt;p&gt;The Block aims to provide you with up-to-date, detailed and complete information about ad blocking. Here you can find articles about ad blockers for all major platforms (Android, iOS, Web), app comparisons, extensions reviews, tips, as well as news from the world of never-ending arms race between ad block apps, publishers, developers and ad platforms.&lt;/p&gt;
+
+&lt;p&gt;We touch everything from commercial ad blockers to open source community projects and provide you with recommendations and guides so that you can also make your life ad-free.&lt;/p&gt;
+
+&lt;p&gt;Finally, The Block dives deeply into privacy and security topics like tracking, anonymous browsing, malware, spoofing and more. We always strive to distill information for you and bring unbiased opinion, so that you can protect your devices from the dangers of the Web and save yourself headaches.&lt;/p&gt;
+
+&lt;p&gt;We hope that you, dear reader, will find The Block useful. Should you have any feedback don&amp;rsquo;t hesitate to send it to &lt;a href=&#34;mailto:hello@blokada.org&#34;&gt;hello@blokada.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Disclaimer: The Block is authored by the developers of Blokada, a free ad blocker for Android.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
