@@ -1,7 +1,8 @@
 +++
 date = "2016-12-13T12:00:00+01:00"
 draft = false
-title = "Welcome to The Block"
+title = "About"
+menu = "main"
 
 +++
 

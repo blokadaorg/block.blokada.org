@@ -72,3 +72,4 @@ paginate = 10
     # Other social-like sidebar links
     # rss = true # switch to true to enable RSS icon link
     # flattr = ""  # populate with your flattr uid
+    rss = true

@@ -10,11 +10,11 @@
     <atom:link href="http://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Welcome to The Block</title>
-      <link>http://block.blokada.org/post/2016/12/13/welcome-to-the-block/</link>
+      <title>About</title>
+      <link>http://block.blokada.org/post/2016/12/13/about/</link>
       <pubDate>Tue, 13 Dec 2016 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2016/12/13/welcome-to-the-block/</guid>
+      <guid>http://block.blokada.org/post/2016/12/13/about/</guid>
       <description>&lt;p&gt;The Block aims to provide you with up-to-date, detailed and complete information about ad blocking. Here you can find articles about ad blockers for all major platforms (Android, iOS, Web), app comparisons, extensions reviews, tips, as well as news from the world of never-ending arms race between ad block apps, publishers, developers and ad platforms.&lt;/p&gt;
 
 &lt;p&gt;We touch everything from commercial ad blockers to open source community projects and provide you with recommendations and guides so that you can also make your life ad-free.&lt;/p&gt;
