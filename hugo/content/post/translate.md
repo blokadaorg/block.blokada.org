@@ -20,7 +20,16 @@ Last but not least, there's a built-in comment system you can use to ask questio
 
 ### Do I need to translate everything?
 
-No. We try to keep the amount of phrases at minimum, but if you don't have enough time to go through all of them, just do as much as you can, starting with the first page. The phrases are roughly sorted in order of importance. Furthermore, someone else may later jump in and take it where you left off.
+No. We try to keep the amount of phrases at minimum, but if you don't have enough time to go through all of them, just do as much as you can, starting with the most important files first. Here is a list of files sorted by their importance:
+
+- `strings_main.xml`
+- Any other `strings_*.xml`:
+  - `strings_filter.xml`, `strings_tunnel.xml`, etc
+- `index.html`
+- Any `strings_*.properties`:
+  - `strings_repo.properties`, `strings_filters.properties`, etc
+- Any `*.html`:
+  - `help.html`, `donate.html`, etc
 
 ### What if my language is not listed?
 
