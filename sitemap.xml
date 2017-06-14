@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://block.blokada.org/</loc>
-    <lastmod>2016-12-13T12:00:00+01:00</lastmod>
-    <priority>0</priority>
+    <loc>http://block.blokada.org/post/2017/06/14/translating-blokada/</loc>
+    <lastmod>2017-06-14T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/</loc>
+    <lastmod>2017-06-08T12:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://block.blokada.org/post/2016/12/13/about/</loc>
     <lastmod>2016-12-13T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://block.blokada.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://block.blokada.org/post/</loc>
+    <lastmod>2017-06-14T12:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://block.blokada.org/</loc>
+    <lastmod>2017-06-14T12:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

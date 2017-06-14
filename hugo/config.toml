@@ -1,5 +1,5 @@
 baseurl = "http://block.blokada.org/"
-title = "The Block. All about ad blocking."
+title = "The Block - All about ad blockers and ad blocking."
 languageCode = "en-us"
 disqusShortname = "blokada" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
@@ -7,7 +7,7 @@ theme = "hyde-x"
 paginate = 10
 
 [author]
-    name = "Blokada Admin"
+    name = "The Block"
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
@@ -28,7 +28,7 @@ paginate = 10
     truncate = false
 
     # Used when a given page doesn't set its own.
-    defaultDescription = "The Block is a blog about ad blocking and ad blockers. It's also home of Blokada - a free, compact, fast ad blocker for Android that works for all apps and does not require root."
+    defaultDescription = "The Block is a blog about ad blocking and ad blockers. It's also home of Blokada - an open source project building the best ad blocker for Android."
     defaultKeywords = "adblocker,adblocking,blokada,android,apps,ads,privacy,tracking"
 
     # Hide estimated reading time for posts.
@@ -67,7 +67,7 @@ paginate = 10
     googleplus = "http://go.blokada.org/social_gplus"
     facebook = "http://go.blokada.org/social_facebook"
     twitter = "http://go.blokada.org/social_twitter"
-    youtube = ""
+    youtube = "http://go.blokada.org/social_youtube"
 
     # Other social-like sidebar links
     # rss = true # switch to true to enable RSS icon link
