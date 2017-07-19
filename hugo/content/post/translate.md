@@ -20,16 +20,16 @@ Last but not least, there's a built-in comment system you can use to ask questio
 
 ### Do I need to translate everything?
 
-No. We try to keep the amount of phrases at minimum, but if you don't have enough time to go through all of them, just do as much as you can, starting with the most important files first. Here is a list of files sorted by their importance:
+No. There are three groups of phrases, each with different priority:
 
-- `strings_main.xml`
-- Any other `strings_*.xml`:
-  - `strings_filter.xml`, `strings_tunnel.xml`, etc
-- `index.html`
-- Any `strings_*.properties`:
-  - `strings_repo.properties`, `strings_filters.properties`, etc
-- Any `*.html`:
-  - `help.html`, `donate.html`, etc
+- `essential`
+  - Only the most important phrases. Please start with those. We can't publish your translation until this group is done.
+- `significant`
+  - Phrases which are not as important as the ones above, but still are displayed quite often.
+- The rest
+  - Phrases with no label can be left untranslated if you have little time.
+
+In the translation system, you will see a button called "Tasks" in the sidebar on the left. Use it to select one of the priority groups described above.
 
 ### What if my language is not listed?
 
