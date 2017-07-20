@@ -1,20 +1,17 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <div style="width: 200px; margin: 0 auto;">
+    <div style="width: 148px; margin: 0 auto;">
       <a href="http://blokada.org"><img src="{{ "/logo.png" | absURL }}"
            alt="logo" title="{{ .Site.Author.name }}"></a>
     </div>
 
-    <ul class="sidebar-nav">
-      <li class="sidebar-nav-item"><a href="{{ "/" | absURL }}">{{ if isset .Site.Params "home"}}{{ .Site.Params.home }}{{ else }}Blog{{ end }}</a></li>
-      <li class="sidebar-nav-item"><a href="{{ "http://blokada.org/#download" | absURL }}">Download Blokada</a></li>
-      {{ range .Site.Menus.main }}
-      <li class="sidebar-nav-item">{{ .Pre }}<a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-      {{end}}
-    </ul>
+    <p class="sidebar-nav" style="text-align: center;">
+      <a href="{{ "/" | absURL }}">{{ if isset .Site.Params "home"}}{{ .Site.Params.home }}{{ else }}Blog{{ end }}</a>
+      {{ range .Site.Menus.main }} | <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+      {{end}} | <a href="{{ "http://blokada.org/#download" | absURL }}">Download</a>
+    </p>
 
-    <ul class="sidebar-nav">
-      <li class="sidebar-nav-item">
+    <p class="sidebar-nav" style="text-align: center;">
       {{ with .Site.Params.github }}<a href="{{ . }}"><i class="fa fa-github-square fa-2x"></i></a>{{ end }}
       {{ with .Site.Params.bitbucket }}<a href="{{ . }}"><i class="fa fa-bitbucket-square fa-2x"></i></a>{{ end }}
       {{ with .Site.Params.stackOverflow }}<a href="{{ . }}"><i class="fa fa-stack-overflow fa-2x"></i></a>{{ end }}
@@ -24,8 +21,7 @@
       {{ with .Site.Params.twitter }}<a href="{{ . }}"><i class="fa fa-twitter-square fa-2x"></i></a>{{ end }}
       {{ with .Site.Params.youtube }}<a href="{{ . }}"><i class="fa fa-youtube-square fa-2x"></i></a>{{ end }}
       {{ if .Site.Params.rss }}<a href="{{ "/index.xml" | absURL }}" type="application/rss+xml"><i class="fa fa-rss-square fa-2x"></i></a>{{ end }}
-      </li>
-    </ul>
+    </p>
 
     {{ if isset .Site.Params "flattr" }}
     <p><script id='flattr'>
