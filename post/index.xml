@@ -6,10 +6,43 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blokada v2.0 is out!</title>
+      <link>http://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/</link>
+      <pubDate>Sun, 23 Jul 2017 12:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/</guid>
+      <description>Yes, Blokada v2.0 is out! With the source in the open! :D
+This is a very important release for several reasons:
+ Blokada is an open source project now. This has a lot of consequences - you can read about them here! Translations are supported, and v2.0 comes with 6 languages straight out of the box! Expect more in future releases (we have German and Dutch in the pipeline). You can also help translating the app to your language!</description>
+    </item>
+    
+    <item>
+      <title>Why is Blokada open source?</title>
+      <link>http://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/</link>
+      <pubDate>Sun, 23 Jul 2017 12:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/</guid>
+      <description>Starting with v2.0, Blokada is an open source project.
+Why I think it&amp;rsquo;s the best approach for developing an ad blocker, and what does it mean for the future of Blokada and its users? Read on :)
+So, why? Well, there&amp;rsquo;re many reasons. So far I have dedicated several months of my time to the development of this app. My plans towards Blokada weren&amp;rsquo;t (and aren&amp;rsquo;t!) limited to it being &amp;ldquo;just&amp;rdquo; an ad blocker, but I wanted to limit its initial functionality so that I can see, in reasonable time, if this app may gain enough traction.</description>
+    </item>
+    
+    <item>
+      <title>A thank you to the translators</title>
+      <link>http://block.blokada.org/post/2017/06/14/a-thank-you-to-the-translators/</link>
+      <pubDate>Wed, 14 Jun 2017 12:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/06/14/a-thank-you-to-the-translators/</guid>
+      <description>Blokada v2.0 is available in six languages. This is only possible thanks to the contributions of several awesome people! I wanted to publicly say thank you to everyone responsible:
+ Spanish: Wolf Igmc4 Portuguese: vinicastro, RinaldiMe French: Emmanuel.Viollet, stephtban Czech: misacek Polish: ew.lapinska English: well, whatever, it&amp;rsquo;s just me ;)  So, thank you!
+Your language missing? I&amp;rsquo;ve made contributing translations as easy as possible. Go here to help.</description>
+    </item>
     
     <item>
       <title>Translating Blokada</title>
