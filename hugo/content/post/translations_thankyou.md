@@ -1,7 +1,8 @@
 +++
-date = "2017-06-14T12:00:00+01:00"
+date = "2017-07-22T12:00:00+01:00"
 draft = false
 title = "A thank you to the translators"
+author = "Karsen"
 
 +++
 

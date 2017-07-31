@@ -6,10 +6,31 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2017 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A state of Blokada v2.0</title>
+      <link>http://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/</link>
+      <pubDate>Mon, 31 Jul 2017 13:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/</guid>
+      <description>It&amp;rsquo;s been a week since Blokada ad blocker is open sourced and available for free. Here is a short summary of the improvements introduced between versions 2.0 and 2.0.2.
+I got great feedback from the XDA folks as usual, and I&amp;rsquo;ve been addressing reported problems as they come. The biggest issue was the stability around imminent network connectivity changes. Apparently, connectivity state events sent by the OS cannot always be trusted, so I introduced some mechanisms (including a watchdog) to make Blokada more aware of the actual state, while not killing the battery.</description>
+    </item>
+    
+    <item>
+      <title>Blokada speaks German and Dutch too</title>
+      <link>http://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/</link>
+      <pubDate>Mon, 31 Jul 2017 12:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/</guid>
+      <description>Thanks to the support of some amazing people, Blokada is now available in two more languages: German and Dutch. They&amp;rsquo;re out with v2.0.2. A thank you goes to:
+ German: beatschubser, andre.mondri Dutch: Arjan, Samir Boulema  Great job!
+Your language missing? I&amp;rsquo;ve made contributing translations as easy as possible. Go here to help.</description>
+    </item>
     
     <item>
       <title>Blokada v2.0 is out!</title>
@@ -35,10 +56,10 @@ So, why? Well, there&amp;rsquo;re many reasons. So far I have dedicated several 
     
     <item>
       <title>A thank you to the translators</title>
-      <link>http://block.blokada.org/post/2017/06/14/a-thank-you-to-the-translators/</link>
-      <pubDate>Wed, 14 Jun 2017 12:00:00 +0100</pubDate>
+      <link>http://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/</link>
+      <pubDate>Sat, 22 Jul 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/06/14/a-thank-you-to-the-translators/</guid>
+      <guid>http://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/</guid>
       <description>Blokada v2.0 is available in six languages. This is only possible thanks to the contributions of several awesome people! I wanted to publicly say thank you to everyone responsible:
  Spanish: Wolf Igmc4 Portuguese: vinicastro, RinaldiMe French: Emmanuel.Viollet, stephtban Czech: misacek Polish: ew.lapinska English: well, whatever, it&amp;rsquo;s just me ;)  So, thank you!
 Your language missing? I&amp;rsquo;ve made contributing translations as easy as possible. Go here to help.</description>
