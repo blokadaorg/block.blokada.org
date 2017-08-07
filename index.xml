@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2017 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blokada v2.0.4 released</title>
+      <link>http://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/</link>
+      <pubDate>Mon, 07 Aug 2017 13:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/</guid>
+      <description>Two weeks after Blokada v2.0 was released, and 4 iterations later, the new and shiny Blokada v2.0.4 is the most stable release to date!
+I&amp;rsquo;ll be pushing updates to existing users incrementally over the coming days. You&amp;rsquo;ll receive a notification as usual. If you don&amp;rsquo;t want to wait, just use the download links on the website. Just remember to download proper version (if you have Android 4, use the secondary link).</description>
+    </item>
     
     <item>
       <title>A state of Blokada v2.0</title>
