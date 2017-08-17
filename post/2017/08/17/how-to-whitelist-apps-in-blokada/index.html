@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Posts &middot; The Block</title>
+  <title>How to whitelist apps in Blokada &middot; The Block</title>
 
   
   <link rel="stylesheet" href="http://block.blokada.org/css/poole.css">
@@ -27,7 +27,7 @@
   
   
   
-  <link href="http://block.blokada.org/post/index.xml" rel="alternate" type="application/rss+xml" title="The Block - All about ad blockers and ad blocking. &middot; The Block" />
+  
 
   <meta name="description" content="The Block is a blog about ad blocking and ad blockers. It&#39;s also home of Blokada - an open source project building the best ad blocker for Android.">
   <meta name="keywords" content="adblocker,adblocking,blokada,android,apps,ads,privacy,tracking">
@@ -77,50 +77,56 @@
 
 
 <div class="content container">
-  <ul class="posts">
-  
-    <li><a href="http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/">How to whitelist apps in Blokada</a>
+  <div class="post">
+    <h1 class="post-title">How to whitelist apps in Blokada</h1>
+    <span class="post-date">Aug 17, 2017 &middot; by Karsen  &middot; <a href="http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/#disqus_thread">Comments</a>
     </span>
-    &middot; <time>Aug 17, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/">Blokada v2.0.4 released</a>
-    </span>
-    &middot; <time>Aug 7, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/">A state of Blokada v2.0</a>
-    </span>
-    &middot; <time>Jul 31, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/">Blokada speaks German and Dutch too</a>
-    </span>
-    &middot; <time>Jul 31, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/">Blokada v2.0 is out!</a>
-    </span>
-    &middot; <time>Jul 23, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/">Why is Blokada open source?</a>
-    </span>
-    &middot; <time>Jul 23, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/">A thank you to the translators</a>
-    </span>
-    &middot; <time>Jul 22, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/06/14/translating-blokada/">Translating Blokada</a>
-    </span>
-    &middot; <time>Jun 14, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/">Blokada v2.0 roadmap</a>
-    </span>
-    &middot; <time>Jun 8, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2016/12/13/about/">About</a>
-    </span>
-    &middot; <time>Dec 13, 2016</time></li>
-  
-  </ul>
+    <p>Blokada 2.1 introduced a long-awaited app whitelisting feature. This is very useful for dealing with apps that do not work correctly with ad blocking. Some apps, like Google Play Store or GMail are whitelisted out of the box. As always, you have full control how Blokada ad blocker works, so you can easily add and delete whitelisted apps.</p>
+
+<p>Here is a video that demonstrates app whitelisting with XDA Labs app, which used to have problems with downloading apps if Blokada was on. Not anymore!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIKsSWTxAow" frameborder="0" allowfullscreen></iframe>
+
+<p>To add an app, go to the whitelist section, tap the add button, and simply start typing either app&rsquo;s name or package name (application ID). Blokada will show you suggestions as you type. Once you select and confirm the app, it&rsquo;ll show up in the whitelist. Blokada will also reactivate itself since it&rsquo;s required for the changes to take effect.</p>
+
+<p>Keep in mind a few things while using this feature in it&rsquo;s early release:</p>
+
+<ul>
+<li>Not every app will immediately act properly after being whitelisted. In some rare cases you may need to kill and restart that app.</li>
+<li>App whitelisting is only supported by the optimised blocking mechanism (at least in 2.1). If you are using standard blocking, you&rsquo;ll see a message telling you app whitelisting is ignored.</li>
+<li>Some apps will be whitelisted by default if you just installed Blokada. In case you&rsquo;re updating from earlier version, they may not show up, in order to not mess with your custom filters you may have added. Simply add any apps you want to whitelist as you go. Alternatively, if you really want to have the &ldquo;factory&rdquo; filters configuration, simply delete all of them (both from the whitelist and the blacklist), then restart Blokada. The defaults will show up.</li>
+</ul>
+
+<p>Enjoy!</p>
+
+  </div>
+  <div id="disqus_thread"></div>
 </div>
+
+
+<script type="text/javascript">
+var disqus_shortname = "blokada";
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+
+
+<script type="text/javascript">
+    var disqus_shortname = "blokada";
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 <script src="http://block.blokada.org/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 </body>

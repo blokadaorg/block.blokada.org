@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to whitelist apps in Blokada</title>
+      <link>http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/</link>
+      <pubDate>Thu, 17 Aug 2017 13:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/</guid>
+      <description>Blokada 2.1 introduced a long-awaited app whitelisting feature. This is very useful for dealing with apps that do not work correctly with ad blocking. Some apps, like Google Play Store or GMail are whitelisted out of the box. As always, you have full control how Blokada ad blocker works, so you can easily add and delete whitelisted apps.
+Here is a video that demonstrates app whitelisting with XDA Labs app, which used to have problems with downloading apps if Blokada was on.</description>
+    </item>
     
     <item>
       <title>Blokada v2.0.4 released</title>
