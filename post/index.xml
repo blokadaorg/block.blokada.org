@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2017 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 20:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blokada ad blocker now also available in Italian and Malay</title>
+      <link>http://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</link>
+      <pubDate>Mon, 21 Aug 2017 20:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</guid>
+      <description>The awesome members of the Blokada community just contributed new translations! As of v2.2, Blokada adblocker is now available in two more languages: Italian and Malay. A thank you goes to:
+ Italian: htrex Malay: Syed  This makes Blokada ad blocker speak 10 languages in total! Just a month after I&amp;rsquo;ve introduced translations support. What&amp;rsquo;s more, Hebrew and Persian are already in the pipeline (I need some more testing for those since they&amp;rsquo;re first RTL languages to be supported by Blokada).</description>
+    </item>
     
     <item>
       <title>How to use quick whitelist actions in Blokada ad blocker</title>
