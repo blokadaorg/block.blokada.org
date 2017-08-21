@@ -10,7 +10,7 @@ Blokada 2.1 introduced a long-awaited app whitelisting feature. This is very use
 
 Here is a video that demonstrates app whitelisting with XDA Labs app, which used to have problems with downloading apps if Blokada was on. Not anymore!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIKsSWTxAow" frameborder="0" allowfullscreen></iframe>
+<div class="yt-container"><iframe class="yt-video" src="https://www.youtube.com/embed/xIKsSWTxAow?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
 To add an app, go to the whitelist section, tap the add button, and simply start typing either app's name or package name (application ID). Blokada will show you suggestions as you type. Once you select and confirm the app, it'll show up in the whitelist. Blokada will also reactivate itself since it's required for the changes to take effect.
 

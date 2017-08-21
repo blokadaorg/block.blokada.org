@@ -6,10 +6,21 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to use quick whitelist actions in Blokada ad blocker</title>
+      <link>http://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/</link>
+      <pubDate>Mon, 21 Aug 2017 13:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/</guid>
+      <description>Blokada 2.2 added a very useful quick actions menu to help you efficiently manage your whitelist. You can easily whitelist and un-whitelist all installed or system apps with one tap. You can also restore your filters to default configuration in case you messed it up too much. Note that it also resets the blacklist.
+Here is a video that demonstrates the quick actions menu available in the Whitelist section.
+ Keep in mind a few things while using this feature in it&amp;rsquo;s early release:</description>
+    </item>
     
     <item>
       <title>How to whitelist apps in Blokada</title>
