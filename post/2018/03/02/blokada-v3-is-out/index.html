@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Posts &middot; The Block</title>
+  <title>Blokada v3 is out! &middot; The Block</title>
 
   
   <link rel="stylesheet" href="http://block.blokada.org/css/poole.css">
@@ -27,7 +27,7 @@
   
   
   
-  <link href="http://block.blokada.org/post/index.xml" rel="alternate" type="application/rss+xml" title="The Block - All about ad blockers and ad blocking. &middot; The Block" />
+  
 
   <meta name="description" content="The Block is a blog about ad blocking and ad blockers. It&#39;s also home of Blokada - an open source project building the best ad blocker for Android.">
   <meta name="keywords" content="adblocker,adblocking,blokada,android,apps,ads,privacy,tracking">
@@ -77,62 +77,60 @@
 
 
 <div class="content container">
-  <ul class="posts">
-  
-    <li><a href="http://block.blokada.org/post/2018/03/02/blokada-v3-is-out/">Blokada v3 is out!</a>
+  <div class="post">
+    <h1 class="post-title">Blokada v3 is out!</h1>
+    <span class="post-date">Mar 2, 2018 &middot; by Karsen  &middot; <a href="http://block.blokada.org/post/2018/03/02/blokada-v3-is-out/#disqus_thread">Comments</a>
     </span>
-    &middot; <time>Mar 2, 2018</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/">Blokada ad blocker now also available in Italian and Malay</a>
-    </span>
-    &middot; <time>Aug 21, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/">How to use quick whitelist actions in Blokada ad blocker</a>
-    </span>
-    &middot; <time>Aug 21, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/">How to whitelist apps in Blokada</a>
-    </span>
-    &middot; <time>Aug 17, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/">Blokada v2.0.4 released</a>
-    </span>
-    &middot; <time>Aug 7, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/">A state of Blokada v2.0</a>
-    </span>
-    &middot; <time>Jul 31, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/">Blokada speaks German and Dutch too</a>
-    </span>
-    &middot; <time>Jul 31, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/">Blokada v2.0 is out!</a>
-    </span>
-    &middot; <time>Jul 23, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/">Why is Blokada open source?</a>
-    </span>
-    &middot; <time>Jul 23, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/">A thank you to the translators</a>
-    </span>
-    &middot; <time>Jul 22, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/06/14/translating-blokada/">Translating Blokada</a>
-    </span>
-    &middot; <time>Jun 14, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/">Blokada v2.0 roadmap</a>
-    </span>
-    &middot; <time>Jun 8, 2017</time></li>
-  
-    <li><a href="http://block.blokada.org/post/2016/12/13/about/">About</a>
-    </span>
-    &middot; <time>Dec 13, 2016</time></li>
-  
-  </ul>
+    <p>Blokada v3 is now released and I&rsquo;m gradually rolling out the update to all users. If you haven&rsquo;t received it yet, stay tuned, or just go the <a href="https://blokada.org/#download">download section</a>.</p>
+
+<p>This release is introducing a lot of changes and improvements, and you&rsquo;ll see all of them described in detail in next several posts. Meanwhile, here are the highlights:</p>
+
+<ul>
+<li>Improved &ldquo;Keep Alive&rdquo; feature. This is addressing the problem of Blokada being killed by the OS too often on some devices.</li>
+<li>Improved &ldquo;Start of Boot&rdquo; feature. Now Blokada starts earlier in boot and is more dependable.</li>
+<li>Introduced HTTPS to Blokada API and website to improve security and prevent MITM attacks.</li>
+<li>Introduced <a href="http://go.blokada.org/chat">Blokada Chat</a>. You are welcome to join us on Telegram!</li>
+<li>Introduced <a href="http://go.blokada.org/patron">Blokada Patron</a>. This feature aims to help supporting the project and at the same time reward contributions and active members of the community.</li>
+<li>Introduce &ldquo;Chip In&rdquo;, a periodic Call to Action mechanism to engage the userbase and help make community decisions. As a first order of business, the Blokada community is having a vote to express their opinion on Blokada branding.</li>
+<li>Simplified and refreshed UI to eliminate confusing bits, keep the codebase nimble and decrease apk size.</li>
+<li>Simplified translating Blokada by decreasing the overall amount of strings, eliminating use of plural strings and keeping the core phrases set small.</li>
+<li>Fixed several significant bugs, for example with the whitelist.</li>
+</ul>
+
+<p>A detailed changelog is always available at <a href="http://go.blokada.org/changelog">go.blokada.org/changelog</a>.</p>
+
+<p>Thanks to the great team of Blokada translators, <strong>Blokada v3 is translated to 15 languages from the start.</strong> I can&rsquo;t emphasize enough how awesome it is, especially because it was done on a really short notice.</p>
+
+<p><em>Please note that some non-essential bits are still to be translated and you&rsquo;ll see more complete translations in coming days.</em></p>
+
+  </div>
+  <div id="disqus_thread"></div>
 </div>
+
+
+<script type="text/javascript">
+var disqus_shortname = "blokada";
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+
+
+<script type="text/javascript">
+    var disqus_shortname = "blokada";
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 <script src="http://block.blokada.org/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 </body>

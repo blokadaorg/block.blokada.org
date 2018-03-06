@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://block.blokada.org/post/2018/03/02/blokada-v3-is-out/</loc>
+    <lastmod>2018-03-02T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</loc>
     <lastmod>2017-08-21T20:00:00+01:00</lastmod>
   </url>
@@ -69,13 +74,13 @@
   
   <url>
     <loc>http://block.blokada.org/post/</loc>
-    <lastmod>2017-08-21T20:00:00+01:00</lastmod>
+    <lastmod>2018-03-02T12:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://block.blokada.org/</loc>
-    <lastmod>2017-08-21T20:00:00+01:00</lastmod>
+    <lastmod>2018-03-02T12:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
