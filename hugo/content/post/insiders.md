@@ -17,3 +17,5 @@ How to join us? It's very simple:
 - [Join our chat](http://go.blokada.org/chat) and mention that you would like to join the insiders.
 
 That's it! Join the community, support Blokada, and have fun with us!
+
+_Blokada is an open source project. There is no financial reward or cost involved with participation. You are free to resign anytime, we only ask you to let us know once you decide to do so._
