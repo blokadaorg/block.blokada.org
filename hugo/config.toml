@@ -1,4 +1,4 @@
-baseurl = "http://block.blokada.org/"
+baseurl = "https://block.blokada.org/"
 title = "The Block - All about ad blockers and ad blocking."
 languageCode = "en-us"
 disqusShortname = "blokada" # Optional, enable Disqus integration

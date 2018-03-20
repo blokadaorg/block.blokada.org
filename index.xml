@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Block - All about ad blockers and ad blocking.</title>
-    <link>http://block.blokada.org/</link>
+    <link>https://block.blokada.org/</link>
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Mar 2018 12:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blokada Insiders</title>
-      <link>http://block.blokada.org/post/2018/03/20/blokada-insiders/</link>
+      <link>https://block.blokada.org/post/2018/03/20/blokada-insiders/</link>
       <pubDate>Tue, 20 Mar 2018 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2018/03/20/blokada-insiders/</guid>
+      <guid>https://block.blokada.org/post/2018/03/20/blokada-insiders/</guid>
       <description>With the growing popularity of Blokada, I&amp;rsquo;m getting more and more questions about how can one help the project. Well, there is a lot of things to do with every single release! If you are enjoying Blokada and wish for its continued development, you can make a big difference by joining Blokada Insiders.
 Blokada Insiders is a welcoming group of people giving a bit of their time to help Blokada grow and improve.</description>
     </item>
     
     <item>
       <title>Blokada v3 is out!</title>
-      <link>http://block.blokada.org/post/2018/03/02/blokada-v3-is-out/</link>
+      <link>https://block.blokada.org/post/2018/03/02/blokada-v3-is-out/</link>
       <pubDate>Fri, 02 Mar 2018 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2018/03/02/blokada-v3-is-out/</guid>
+      <guid>https://block.blokada.org/post/2018/03/02/blokada-v3-is-out/</guid>
       <description>Blokada v3 is now released and I&amp;rsquo;m gradually rolling out the update to all users. If you haven&amp;rsquo;t received it yet, stay tuned, or just go the download section.
 This release is introducing a lot of changes and improvements, and you&amp;rsquo;ll see all of them described in detail in next several posts. Meanwhile, here are the highlights:
  Improved &amp;ldquo;Keep Alive&amp;rdquo; feature. This is addressing the problem of Blokada being killed by the OS too often on some devices.</description>
@@ -34,20 +34,20 @@ This release is introducing a lot of changes and improvements, and you&amp;rsquo
     
     <item>
       <title>Blokada ad blocker now also available in Italian and Malay</title>
-      <link>http://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</link>
+      <link>https://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</link>
       <pubDate>Mon, 21 Aug 2017 20:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</guid>
+      <guid>https://block.blokada.org/post/2017/08/21/blokada-ad-blocker-now-also-available-in-italian-and-malay/</guid>
       <description>The awesome members of the Blokada community just contributed new translations! As of v2.2, Blokada adblocker is now available in two more languages: Italian and Malay. A thank you goes to:
  Italian: htrex Malay: Syed  This makes Blokada ad blocker speak 10 languages in total! Just a month after I&amp;rsquo;ve introduced translations support. What&amp;rsquo;s more, Hebrew and Persian are already in the pipeline (I need some more testing for those since they&amp;rsquo;re first RTL languages to be supported by Blokada).</description>
     </item>
     
     <item>
       <title>How to use quick whitelist actions in Blokada ad blocker</title>
-      <link>http://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/</link>
+      <link>https://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/</link>
       <pubDate>Mon, 21 Aug 2017 13:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/</guid>
+      <guid>https://block.blokada.org/post/2017/08/21/how-to-use-quick-whitelist-actions-in-blokada-ad-blocker/</guid>
       <description>Blokada 2.2 added a very useful quick actions menu to help you efficiently manage your whitelist. You can easily whitelist and un-whitelist all installed or system apps with one tap. You can also restore your filters to default configuration in case you messed it up too much. Note that it also resets the blacklist.
 Here is a video that demonstrates the quick actions menu available in the Whitelist section.
  Keep in mind a few things while using this feature in it&amp;rsquo;s early release:</description>
@@ -55,40 +55,40 @@ Here is a video that demonstrates the quick actions menu available in the Whitel
     
     <item>
       <title>How to whitelist apps in Blokada</title>
-      <link>http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/</link>
+      <link>https://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/</link>
       <pubDate>Thu, 17 Aug 2017 13:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/</guid>
+      <guid>https://block.blokada.org/post/2017/08/17/how-to-whitelist-apps-in-blokada/</guid>
       <description>Blokada 2.1 introduced a long-awaited app whitelisting feature. This is very useful for dealing with apps that do not work correctly with ad blocking. Some apps, like Google Play Store or GMail are whitelisted out of the box. As always, you have full control how Blokada ad blocker works, so you can easily add and delete whitelisted apps.
 Here is a video that demonstrates app whitelisting with XDA Labs app, which used to have problems with downloading apps if Blokada was on.</description>
     </item>
     
     <item>
       <title>Blokada v2.0.4 released</title>
-      <link>http://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/</link>
+      <link>https://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/</link>
       <pubDate>Mon, 07 Aug 2017 13:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/</guid>
+      <guid>https://block.blokada.org/post/2017/08/07/blokada-v2.0.4-released/</guid>
       <description>Two weeks after Blokada v2.0 was released, and 4 iterations later, the new and shiny Blokada v2.0.4 is the most stable release to date!
 I&amp;rsquo;ll be pushing updates to existing users incrementally over the coming days. You&amp;rsquo;ll receive a notification as usual. If you don&amp;rsquo;t want to wait, just use the download links on the website. Just remember to download proper version (if you have Android 4, use the secondary link).</description>
     </item>
     
     <item>
       <title>A state of Blokada v2.0</title>
-      <link>http://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/</link>
+      <link>https://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/</link>
       <pubDate>Mon, 31 Jul 2017 13:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/</guid>
+      <guid>https://block.blokada.org/post/2017/07/31/a-state-of-blokada-v2.0/</guid>
       <description>It&amp;rsquo;s been a week since Blokada ad blocker is open sourced and available for free. Here is a short summary of the improvements introduced between versions 2.0 and 2.0.2.
 I got great feedback from the XDA folks as usual, and I&amp;rsquo;ve been addressing reported problems as they come. The biggest issue was the stability around imminent network connectivity changes. Apparently, connectivity state events sent by the OS cannot always be trusted, so I introduced some mechanisms (including a watchdog) to make Blokada more aware of the actual state, while not killing the battery.</description>
     </item>
     
     <item>
       <title>Blokada speaks German and Dutch too</title>
-      <link>http://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/</link>
+      <link>https://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/</link>
       <pubDate>Mon, 31 Jul 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/</guid>
+      <guid>https://block.blokada.org/post/2017/07/31/blokada-speaks-german-and-dutch-too/</guid>
       <description>Thanks to the support of some amazing people, Blokada is now available in two more languages: German and Dutch. They&amp;rsquo;re out with v2.0.2. A thank you goes to:
  German: beatschubser, andre.mondri Dutch: Arjan, Samir Boulema  Great job!
 Your language missing? I&amp;rsquo;ve made contributing translations as easy as possible. Go here to help.</description>
@@ -96,10 +96,10 @@ Your language missing? I&amp;rsquo;ve made contributing translations as easy as 
     
     <item>
       <title>Blokada v2.0 is out!</title>
-      <link>http://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/</link>
+      <link>https://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/</link>
       <pubDate>Sun, 23 Jul 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/</guid>
+      <guid>https://block.blokada.org/post/2017/07/23/blokada-v2.0-is-out/</guid>
       <description>Yes, Blokada v2.0 is out! With the source in the open! :D
 This is a very important release for several reasons:
  Blokada is an open source project now. This has a lot of consequences - you can read about them here! Translations are supported, and v2.0 comes with 6 languages straight out of the box! Expect more in future releases (we have German and Dutch in the pipeline). You can also help translating the app to your language!</description>
@@ -107,10 +107,10 @@ This is a very important release for several reasons:
     
     <item>
       <title>Why is Blokada open source?</title>
-      <link>http://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/</link>
+      <link>https://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/</link>
       <pubDate>Sun, 23 Jul 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/</guid>
+      <guid>https://block.blokada.org/post/2017/07/23/why-is-blokada-open-source/</guid>
       <description>Starting with v2.0, Blokada is an open source project.
 Why I think it&amp;rsquo;s the best approach for developing an ad blocker, and what does it mean for the future of Blokada and its users? Read on :)
 So, why? Well, there&amp;rsquo;re many reasons. So far I have dedicated several months of my time to the development of this app. My plans towards Blokada weren&amp;rsquo;t (and aren&amp;rsquo;t!) limited to it being &amp;ldquo;just&amp;rdquo; an ad blocker, but I wanted to limit its initial functionality so that I can see, in reasonable time, if this app may gain enough traction.</description>
@@ -118,10 +118,10 @@ So, why? Well, there&amp;rsquo;re many reasons. So far I have dedicated several 
     
     <item>
       <title>A thank you to the translators</title>
-      <link>http://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/</link>
+      <link>https://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/</link>
       <pubDate>Sat, 22 Jul 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/</guid>
+      <guid>https://block.blokada.org/post/2017/07/22/a-thank-you-to-the-translators/</guid>
       <description>Blokada v2.0 is available in six languages. This is only possible thanks to the contributions of several awesome people! I wanted to publicly say thank you to everyone responsible:
  Spanish: Wolf Igmc4 Portuguese: vinicastro, RinaldiMe French: Emmanuel.Viollet, stephtban Czech: misacek Polish: ew.lapinska English: well, whatever, it&amp;rsquo;s just me ;)  So, thank you!
 Your language missing? I&amp;rsquo;ve made contributing translations as easy as possible. Go here to help.</description>
@@ -129,10 +129,10 @@ Your language missing? I&amp;rsquo;ve made contributing translations as easy as 
     
     <item>
       <title>Translating Blokada</title>
-      <link>http://block.blokada.org/post/2017/06/14/translating-blokada/</link>
+      <link>https://block.blokada.org/post/2017/06/14/translating-blokada/</link>
       <pubDate>Wed, 14 Jun 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/06/14/translating-blokada/</guid>
+      <guid>https://block.blokada.org/post/2017/06/14/translating-blokada/</guid>
       <description>Thank you for considering translating Blokada!
 Blokada has a convenient translation system in place that is meant to make your job easier. You can find it at: go.blokada.org/translate.
 Instructions Once you click the link, you&amp;rsquo;ll see a list of languages Blokada is being translated to. Click on the language you speak in order to see which phrases are translated, and which are missing or need improvement. Then click the &amp;ldquo;Sign up to help translate&amp;rdquo; button.</description>
@@ -140,19 +140,19 @@ Instructions Once you click the link, you&amp;rsquo;ll see a list of languages B
     
     <item>
       <title>Blokada v2.0 roadmap</title>
-      <link>http://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/</link>
+      <link>https://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/</link>
       <pubDate>Thu, 08 Jun 2017 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/</guid>
+      <guid>https://block.blokada.org/post/2017/06/08/blokada-v2.0-roadmap/</guid>
       <description>It&amp;rsquo;s been exciting several months for ad blocking on Android. When I started developing Blokada, it was just a side project of mine meant to test some less-known Android APIs and capabilities of the platform itself. At that time, the only existing ad blockers for Android were eating battery like crazy and slowing down device. Plus, they were quite cumbersome to use. I wanted to see if it&amp;rsquo;s possible to build something that will block most of the ads across all apps, while being efficient and fast enough so that I won&amp;rsquo;t notice it in terms of battery life, or network bandwidth speed or device performance.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://block.blokada.org/post/2016/12/13/about/</link>
+      <link>https://block.blokada.org/post/2016/12/13/about/</link>
       <pubDate>Tue, 13 Dec 2016 12:00:00 +0100</pubDate>
       
-      <guid>http://block.blokada.org/post/2016/12/13/about/</guid>
+      <guid>https://block.blokada.org/post/2016/12/13/about/</guid>
       <description>The Block aims to provide you with up-to-date, detailed and complete information about ad blocking. Here you can find articles about ad blockers for all major platforms (Android, iOS, Web), app comparisons, extensions reviews, tips, as well as news from the world of never-ending arms race between ad block apps, publishers, developers and ad platforms.
 We touch everything from commercial ad blockers to open source community projects and provide you with recommendations and guides so that you can also make your life ad-free.</description>
     </item>
