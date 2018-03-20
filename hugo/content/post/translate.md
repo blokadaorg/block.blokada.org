@@ -2,6 +2,7 @@
 date = "2017-06-14T12:00:00+01:00"
 draft = false
 title = "Translating Blokada"
+author = "Karol"
 menu = "main"
 
 +++

@@ -2,7 +2,7 @@
 date = "2017-06-08T12:00:00+01:00"
 draft = false
 title = "Blokada v2.0 roadmap"
-author = "Karsen"
+author = "Karol"
 
 +++
 

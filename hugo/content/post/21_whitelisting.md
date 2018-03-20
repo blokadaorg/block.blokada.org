@@ -2,7 +2,7 @@
 date = "2017-08-17T13:00:00+01:00"
 draft = false
 title = "How to whitelist apps in Blokada"
-author = "Karsen"
+author = "Karol"
 
 +++
 

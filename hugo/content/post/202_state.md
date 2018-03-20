@@ -2,7 +2,7 @@
 date = "2017-07-31T13:00:00+01:00"
 draft = false
 title = "A state of Blokada v2.0"
-author = "Karsen"
+author = "Karol"
 
 +++
 

@@ -2,7 +2,7 @@
 date = "2017-08-21T13:00:00+01:00"
 draft = false
 title = "How to use quick whitelist actions in Blokada ad blocker"
-author = "Karsen"
+author = "Karol"
 
 +++
 

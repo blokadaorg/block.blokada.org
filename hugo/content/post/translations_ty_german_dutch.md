@@ -2,7 +2,7 @@
 date = "2017-07-31T12:00:00+01:00"
 draft = false
 title = "Blokada speaks German and Dutch too"
-author = "Karsen"
+author = "Karol"
 
 +++
 
