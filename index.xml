@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blokada Insiders</title>
+      <link>http://block.blokada.org/post/2018/03/20/blokada-insiders/</link>
+      <pubDate>Tue, 20 Mar 2018 12:00:00 +0100</pubDate>
+      
+      <guid>http://block.blokada.org/post/2018/03/20/blokada-insiders/</guid>
+      <description>With the growing popularity of Blokada, I&amp;rsquo;m getting more and more questions about how can one help the project. Well, there is a lot of things to do with every single release! If you are enjoying Blokada and wish for its continued development, you can make a big difference by joining Blokada Insiders.
+Blokada Insiders is a welcoming group of people giving a bit of their time to help Blokada grow and improve.</description>
+    </item>
     
     <item>
       <title>Blokada v3 is out!</title>
