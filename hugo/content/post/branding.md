@@ -1,5 +1,5 @@
 +++
-date = "2018-03-22T12:00:00+01:00"
+date = "2018-03-23T11:00:00+01:00"
 draft = false
 title = "Branding vote results"
 author = "Karol"
@@ -22,4 +22,4 @@ We got 358 votes (this survey was running only a few days). The highest number o
 
 So, thank you for so active participation in the first general voting of our community. I am very happy with the engagement and I think this is a very good way to decide about any matters important for the future of the project. In fact, we'll be voting on introducing VPN functionality next.
 
-_PS, did you know you can join [Blokada Insiders](http://go.blokada.org/blog_insiders) and help run the project? For example, you can be managing the voting like this one. It's totally free and doesn't take much time. You are welcome to join us!_
+*PS, did you know you can join [Blokada Insiders](http://go.blokada.org/blog_insiders) and help run the project? For example, you can be managing the voting like this one. It's totally free and doesn't take much time. You are welcome to join us!*
