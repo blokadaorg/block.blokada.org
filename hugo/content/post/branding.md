@@ -10,13 +10,13 @@ Since users seem to confuse the name _Blokada_ very often, I decided to check wh
 
 The first voting was designed to test if we want to change the name at all. Surprisingly, **89% of users (from 1286 votes) is happy with the name _Blokada_**, or at least thinks we should not change it.
 
-![Branding vote 1](/static/posts/branding_1.png)
+![Branding vote 1](/img/branding_1.png)
 
 This was a bit of surprise to me, but since rebranding is a significant amount of work and I would prefer not to do it, I was happy with the results ;).
 
 Users who voted to change the name was asked then to vote on one of the existing alternative suggestions, or propose their own. We got some really interesting suggestions, so just to exhaust the topic of branding I decided to run one more survey. The second survey was just focusing on those suggestions, to see which one of them is the best, in case we decide to rebrand after all in the future.
 
-![Branding vote 2](/static/posts/branding_2.png)
+![Branding vote 2](/img/branding_2.png)
 
 We got 358 votes (this survey was running only a few days). The highest number of voters (23%) voted on _Blockade_. Two next most popular choices were _Blocky McBlockface_ and _BlockIt_, both with roughly 11% of votes.
 
