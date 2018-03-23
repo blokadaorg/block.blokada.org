@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Mar 2018 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Branding vote results</title>
+      <link>https://block.blokada.org/post/2018/03/22/branding-vote-results/</link>
+      <pubDate>Thu, 22 Mar 2018 12:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2018/03/22/branding-vote-results/</guid>
+      <description>Since users seem to confuse the name Blokada very often, I decided to check what the community really thinks about the branding. Over the last 3 weeks we&amp;rsquo;ve been voting on alternative names for the project, and we got some cool suggestions. Here are the results.
+The first voting was designed to test if we want to change the name at all. Surprisingly, 89% of users (from 1286 votes) is happy with the name Blokada, or at least thinks we should not change it.</description>
+    </item>
     
     <item>
       <title>Blokada Insiders</title>
