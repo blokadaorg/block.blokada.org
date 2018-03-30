@@ -12,6 +12,6 @@ We touch everything from commercial ad blockers to open source community project
 
 Finally, The Block dives deeply into privacy and security topics like tracking, anonymous browsing, malware, spoofing and more. We always strive to distill information for you and bring unbiased opinion, so that you can protect your devices from the dangers of the Web and save yourself headaches.
 
-We hope that you, dear reader, will find The Block useful. Should you have any feedback don't hesitate to send it to <a href="mailto:hello@blokada.org">hello@blokada.org</a>.
+We hope that you, dear reader, will find The Block useful. Should you have any feedback don't hesitate comment.
 
 _Disclaimer: The Block is authored by the developers of Blokada, a free ad blocker for Android._

@@ -3,6 +3,7 @@ date = "2018-03-20T12:00:00+01:00"
 draft = false
 title = "Blokada Insiders"
 author = "Karol"
+menu = "main"
 
 +++
 
