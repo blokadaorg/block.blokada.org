@@ -26,6 +26,8 @@ Any language that has 100% coverage on `High priority` files is going to be incl
 
 Under the `Discussions` tab you will find all questions from other translators. Feel free to create a `New Topic` if you can't find the answer for your problem.
 
+You're also encouraged to [join our chat](http://go.blokada.org/chat)!
+
 ### When will my work show up in the app?
 
 Each new release gets fresh translations. However, they have to be approved by the `Localisation Manager` of your language.
