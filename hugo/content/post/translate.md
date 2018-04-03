@@ -8,7 +8,7 @@ author = "Karol"
 
 Thank you for considering translating Blokada!
 
-Blokada has a convenient translation system in place that is meant to make your job easier. You can find it at: [go.blokada.org/translate](http://go.blokada.org/translate).
+Blokada has a convenient translation system in place that is meant to make your job easier. You can find it at: [translate.blokada.org](https://translate.blokada.org).
 
 ### Getting started
 

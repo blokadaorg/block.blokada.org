@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Mar 2018 11:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blokada translations moved to Crowdin</title>
+      <link>https://block.blokada.org/post/2018/04/03/blokada-translations-moved-to-crowdin/</link>
+      <pubDate>Tue, 03 Apr 2018 12:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2018/04/03/blokada-translations-moved-to-crowdin/</guid>
+      <description>During the last year we&amp;rsquo;ve translated Blokada to 15+ languages, with more than 30 languages in total being worked on. This is amazing!
+In order to make the job easier for translators, I decided to change the translation platform to Crowdin. Migrating existing translations took me many hours, and not everything went smoothly to say the least, but I think you will agree it was worth it - the new platform is much better!</description>
+    </item>
     
     <item>
       <title>Branding vote results</title>
@@ -144,7 +154,7 @@ Your language missing? I&amp;rsquo;ve made contributing translations as easy as 
       
       <guid>https://block.blokada.org/post/2017/06/14/translating-blokada/</guid>
       <description>Thank you for considering translating Blokada!
-Blokada has a convenient translation system in place that is meant to make your job easier. You can find it at: go.blokada.org/translate.
+Blokada has a convenient translation system in place that is meant to make your job easier. You can find it at: translate.blokada.org.
 Getting started Once you click the link, you&amp;rsquo;ll see all languages Blokada is being translated to. Click on the language you speak in order to see the files and their translation status. You can either use the &amp;ldquo;Translate All&amp;rdquo; button at the top, or choose any particular file you would like to translate.</description>
     </item>
     
