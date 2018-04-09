@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://block.blokada.org/post/2018/04/09/vpn-vote-results/</loc>
+    <lastmod>2018-04-09T08:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://block.blokada.org/post/2018/04/03/blokada-translations-moved-to-crowdin/</loc>
     <lastmod>2018-04-03T12:00:00+01:00</lastmod>
   </url>
@@ -89,13 +94,13 @@
   
   <url>
     <loc>https://block.blokada.org/post/</loc>
-    <lastmod>2018-04-03T12:00:00+01:00</lastmod>
+    <lastmod>2018-04-09T08:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://block.blokada.org/</loc>
-    <lastmod>2018-04-03T12:00:00+01:00</lastmod>
+    <lastmod>2018-04-09T08:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Apr 2018 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Apr 2018 08:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VPN vote results</title>
+      <link>https://block.blokada.org/post/2018/04/09/vpn-vote-results/</link>
+      <pubDate>Mon, 09 Apr 2018 08:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2018/04/09/vpn-vote-results/</guid>
+      <description>For the last month I&amp;rsquo;ve been running a survey about the possibility of adding VPN service into Blokada. The idea is that introducing independently from the existing ad blocking and DNS changing functionality will allow to support the project development long term. The survey was designed to help me understand what you think about this idea and how would you like it to work.
+As usual, I could count on your participation.</description>
+    </item>
     
     <item>
       <title>Blokada translations moved to Crowdin</title>
@@ -28,7 +38,7 @@ In order to make the job easier for translators, I decided to change the transla
       
       <guid>https://block.blokada.org/post/2018/03/23/branding-vote-results/</guid>
       <description>Since users seem to confuse the name Blokada very often, I decided to check what the community really thinks about the branding. Over the last 3 weeks we&amp;rsquo;ve been voting on alternative names for the project, and we got some cool suggestions. Here are the results.
-The first voting was designed to test if we want to change the name at all. Surprisingly, 89% of users (from 1286 votes) is happy with the name Blokada, or at least thinks we should not change it.</description>
+The first voting was designed to test if we want to change the name at all. Surprisingly, 89% of users (from 1286 votes) is happy with the name Blokada, or at least think we should not change it.</description>
     </item>
     
     <item>

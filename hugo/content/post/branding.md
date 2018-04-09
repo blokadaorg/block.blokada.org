@@ -8,7 +8,7 @@ author = "Karol"
 
 Since users seem to confuse the name _Blokada_ very often, I decided to check what the community really thinks about the branding. Over the last 3 weeks we've been voting on alternative names for the project, and we got some cool suggestions. Here are the results.
 
-The first voting was designed to test if we want to change the name at all. Surprisingly, **89% of users (from 1286 votes) is happy with the name _Blokada_**, or at least thinks we should not change it.
+The first voting was designed to test if we want to change the name at all. Surprisingly, **89% of users (from 1286 votes) is happy with the name _Blokada_**, or at least think we should not change it.
 
 ![Branding vote 1](/img/branding_1.png)
 
