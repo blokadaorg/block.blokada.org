@@ -1,7 +1,6 @@
 baseurl = "https://block.blokada.org/"
 title = "The Block - All about ad blockers and ad blocking."
 languageCode = "en-us"
-disqusShortname = "blokada" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 10
@@ -56,7 +55,6 @@ paginate = 10
     home = "The Block"
 
     # Metadata used to drive integrations.
-    googleAnalytics = "UA-87669658-2"
     gravatarHash = "fa7766fbbc0ba34428f67f57668f2f7f"
 
     # Sidebar social links, these must be full URLs.
