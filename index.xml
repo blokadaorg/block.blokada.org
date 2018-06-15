@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Apr 2018 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jun 2018 08:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Features vote results</title>
+      <link>https://block.blokada.org/post/2018/06/15/features-vote-results/</link>
+      <pubDate>Fri, 15 Jun 2018 08:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2018/06/15/features-vote-results/</guid>
+      <description>Throughout April we&amp;rsquo;ve been running the features vote to see which of the proposed features are the most welcome among you. Today, I finally found some time to write up the results. :)
+This time we had 721 participants, which is great. This was a multiple choice survey, so one participant could vote on more than one feature (maximum 5). In total, there was 2317 votes. The most popular feature was HTTPS filtering (to block YouTube ads and encrypted ads) with over 20% of all votes.</description>
+    </item>
     
     <item>
       <title>VPN vote results</title>
