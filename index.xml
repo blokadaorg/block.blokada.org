@@ -6,10 +6,20 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jun 2018 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jun 2018 08:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Platforms vote results</title>
+      <link>https://block.blokada.org/post/2018/06/16/platforms-vote-results/</link>
+      <pubDate>Sat, 16 Jun 2018 08:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2018/06/16/platforms-vote-results/</guid>
+      <description>During May we&amp;rsquo;ve been running the platforms vote, which is part of my strategic planning of the Blokada future. Needless to say, this is very long term, since there&amp;rsquo;s a lot of things to implement on Android still, but, it&amp;rsquo;s always good to check what do you think. Especially because you are always keen on giving your feedback. :)
+This time we had 1039 responses, which is much more than before, although this survey was running for longer time than the previous ones.</description>
+    </item>
     
     <item>
       <title>Features vote results</title>
