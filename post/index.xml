@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jun 2018 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jun 2018 08:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How does Blokada work?</title>
+      <link>https://block.blokada.org/post/2018/06/17/how-does-blokada-work/</link>
+      <pubDate>Sun, 17 Jun 2018 08:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2018/06/17/how-does-blokada-work/</guid>
+      <description>This article is brought to you by Sebastian, one of Blokada Insiders, and is the first in a series of articles aiming to improve your understanding of ad blocking, privacy and malware protection, and related topics.
+In very simple words, how does Blokada work and what is that VPN? We all know that blocking ads is certainly something we all want. While some developers in fact rely on the revenue coming from displaying ads on their apps, the majority of ads we want to block are annoying, they increase the amount of traffic and simply ruin user experience, to put it straightforward (personal advice: if you use an app whose developers seems to really depend on ad revenue, you can whitelist that app on Blokada, and URL requests from that app won&amp;rsquo;t be filtered).</description>
+    </item>
     
     <item>
       <title>Platforms vote results</title>
