@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://block.blokada.org/post/2019/01/29/the-direction-of-blokada/</loc>
+    <lastmod>2019-01-29T08:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://block.blokada.org/post/2018/10/09/blokada---simplicity-at-its-best/</loc>
     <lastmod>2018-10-09T06:00:00+01:00</lastmod>
   </url>
@@ -114,13 +119,13 @@
   
   <url>
     <loc>https://block.blokada.org/post/</loc>
-    <lastmod>2018-10-09T06:00:00+01:00</lastmod>
+    <lastmod>2019-01-29T08:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://block.blokada.org/</loc>
-    <lastmod>2018-10-09T06:00:00+01:00</lastmod>
+    <lastmod>2019-01-29T08:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
