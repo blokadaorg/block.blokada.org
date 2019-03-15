@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 08:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Heads up on Blokada</title>
+      <link>https://block.blokada.org/post/2019/03/15/heads-up-on-blokada/</link>
+      <pubDate>Fri, 15 Mar 2019 08:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2019/03/15/heads-up-on-blokada/</guid>
+      <description>Blokada 3.7 released 3 weeks ago. A big milestone for us, this is the last minor version in version 3, and we would like to thank you all your support on the social sites, forums, all your donations and contribution on GitHub. The ideas you share make this application better and better with every new release.
+One big change that 3.7 ships is the opt-out option for log sharing. We are aware how different ad blockers handle private data, and it is a reasonable concern.</description>
+    </item>
     
     <item>
       <title>The direction of Blokada</title>
