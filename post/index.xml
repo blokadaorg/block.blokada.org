@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 07:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HTTPS Filtering</title>
+      <link>https://block.blokada.org/post/2019/04/15/https-filtering/</link>
+      <pubDate>Mon, 15 Apr 2019 07:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2019/04/15/https-filtering/</guid>
+      <description>HTTPS Filtering: Sure, It Sounds Like a Good Idea
+Stop me if you’ve heard this one: you install an ad blocker (e.g. Blokada), but you still see those pesky sponsored links on Facebook, so you submit a feature request to the Blokada development team asking to the links to be blocked. It sounds like a simple enough request&amp;ndash;just add a filtering rule to block those specific referrals. Unfortunately, the very mechanism designed to make Web surfing safer, https, adds tremendous difficulty to this task.</description>
+    </item>
     
     <item>
       <title>Heads up on Blokada</title>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>HTTPS Filtering &middot; The Block</title>
+
+  
+  <link rel="stylesheet" href="https://block.blokada.org/css/poole.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/hyde.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/hyde-x.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/highlight/github.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/blokada.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://block.blokada.org/touch-icon-144-precomposed.png">
+  <link href="https://block.blokada.org/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="The Block is a blog about ad blocking and ad blockers. It&#39;s also home of Blokada - an open source project building the best ad blocker for Android.">
+  <meta name="keywords" content="adblocker,adblocking,blokada,android,apps,ads,privacy,tracking">
+  
+</head>
+<body class="theme-base-blokada layout-reverse">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div style="width: 148px; margin: 0 auto;">
+      <a href="http://blokada.org"><img src="https://block.blokada.org/logo.png"
+           alt="logo" title="The Block"></a>
+    </div>
+
+    <p class="sidebar-nav" style="text-align: center;">
+      <a href="https://block.blokada.org/">The Block</a>
+       | <a href="https://block.blokada.org/post/2016/12/13/about/">About</a>
+       | <a href="https://block.blokada.org/post/2018/03/20/blokada-insiders/">Blokada Insiders</a>
+       | <a href="http://blokada.org/#download">Download</a>
+    </p>
+
+    <p class="sidebar-nav" style="text-align: center;">
+      <a href="http://go.blokada.org/dev_home"><i class="fa fa-github-square fa-2x"></i></a>
+      
+      
+      
+      <a href="http://go.blokada.org/social_gplus"><i class="fa fa-google-plus-square fa-2x"></i></a>
+      <a href="http://go.blokada.org/social_facebook"><i class="fa fa-facebook-square fa-2x"></i></a>
+      <a href="http://go.blokada.org/social_twitter"><i class="fa fa-twitter-square fa-2x"></i></a>
+      <a href="http://go.blokada.org/social_youtube"><i class="fa fa-youtube-square fa-2x"></i></a>
+      <a href="https://block.blokada.org/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-2x"></i></a>
+    </p>
+
+    
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">HTTPS Filtering</h1>
+    <span class="post-date">Apr 15, 2019 &middot; by Tom Maddox 
+    </span>
+    <p>HTTPS Filtering: Sure, It <em>Sounds</em> Like a Good Idea</p>
+
+<p>Stop me if you’ve heard this one: you install an ad blocker (e.g. Blokada), but you still see those pesky sponsored links on Facebook, so you submit a feature request to the Blokada development team asking to the links to be blocked. It sounds like a simple enough request&ndash;just add a filtering rule to block those specific referrals. Unfortunately, the very mechanism designed to make Web surfing safer, https, adds tremendous difficulty to this task.</p>
+
+<p>Let’s take a step back and consider how Blokada works generally. When you access a server on the Internet via an app or Web browser, that program performs a lookup of a the server name via the Domain Name Service (DNS), a process known as name resolution. Each server has an associated domain name such as facebook.com. Most Web sites which serve advertisements do so through a third-party advertising network such as Google’s, and the DNS entries for that ad network belong to a distinct domain. As a result, when you open a Web page, the primary content is served from one or more Web servers owned or rented by the content creator and belonging to a particular domain, while the advertising content is served from servers on the ad network’s domain. Most of the ad networks use a reasonably well-known list of domains, so most ad blockers maintain one or more blacklists which prevent name resolution for those domains. Thus, only non-advertising content is loaded because, as far as your device is concerned, the advertising domains can’t be found.</p>
+
+<p>Most Web content providers don’t have the capacity to run their own advertising networks, which is why Blokada works as well as it does. There are a couple of large companies, however, who both serve content and advertising, so they don’t need to use a third-party advertising network; instead, they can just use their own servers. As a result, blocking “Sponsored” posts on Facebook or video advertising on Youtube becomes much more challenging because the domain lookup for the advertising content is the same as for the primary content. In principle, it would not be too hard to extend Blokada’s feature set to inspect Web requests in a more granular fashion to look for the specific URLs which serve those annoying Sponsored posts, but this is where security gets in the way.</p>
+
+<p>When the World Wide Web was conceived, security on the Internet was not a grave concern, and encrypted traffic of any sort was much more the exception than the rule, so almost all Web traffic was transferred via http (the Hypertext Transfer Protocol). As it became clear that a variety of miscreants existed in the world, encryption became more and more the norm. Thus, most requests which are made to the Web are now done via https (secure http), which prevents easy snooping on Web traffic. In most ways, this is a positive change in terms of security, but it complicates blocking advertising which is hosted on the same domain as a site’s primary content. The reason is simple: when you browse to <a href="https://www.facebook.com">https://www.facebook.com</a>, the contents of that request and the results which come back are encrypted, hidden from casual inspection, even by Blokada. If the content were unencrypted, filtering it based on the URLs embedded in the data would be relatively straightforward. Facebook serves up a stream of content which Blokada cannot read, however, so it can’t be filtered. This limitation doesn’t just apply to Blokada; all ad blockers are affected to some extent, and solving the problem is non-trivial.</p>
+
+<p>To understand the issue, let’s take a deeper dive into https. Https functions through the exchange of certificates. When you browse to <a href="https://www.amazon.com">https://www.amazon.com</a>, that site presents your Web browser with a certificate which is signed by a known third-party root certificate authority (in Amazon’s case, this is currently DigiCert). If the certificate is seen as valid, then your Web browser will begin a secure session with the Amazon Web server; if it’s not, then you will receive a warning and be blocked from continuing to browse the site. There are many reasons why such a warning might be produced, such as the site having an expired certificate or, more troubling, someone else having hijacked the amazon.com domain and placed their own Web server in its place. (With Amazon, this scenario can be considered highly unlikely, but smaller sites are more vulnerable for reasons beyond the immediate scope of this article.) That sort of hijacking is called a “man-in-the-middle attack,” and it’s exactly the sort of thing that https is designed to prevent. It’s also exactly the sort of thing that Blokada would have to do in order to block ads which are locally served via https.</p>
+
+<p>The obstacle is not insurmountable, but it is problematic. First, Blokada would need to present a certificate to all the applications on a given device which allows Blokada to impersonate every Web server the device tries to access via https. On corporate networks and within certain Internet service providers, a certificate is often deployed to client machines, which allows a corporate Web proxy or ISP content filter to inspect the https traffic (the use of this technique by ISPs is considered highly controversial because it invades the privacy of Internet subscribers). Having done that, Blokada would then be able to decrypt almost any encrypted Internet traffic leaving the device. Additionally, should a vulnerability in Blokada be discovered and exploited, an attacker would gain all the same access possessed by Blokada, i.e. the ability to read all of the device’s Internet traffic, including any secure transactions performed such as online banking or shopping. The Blokada certificate itself could also become a point of exploitation; if an attacker managed to overwrite or subvert the certificate, another application could pose as Blokada, gaining its same rights. Granting Blokada these rights therefore requires putting a tremendous amount of trust in the app, so the feature would need to be developed and activated with exceeding care.</p>
+
+<p>In short, https filtering is one of those features which seems highly desirable but which has the potential of severely undermining the security of any device running it. The Blokada development team are investigating the feature and actively trying to understand how it can be implemented safely. In the meantime, we may all just have to live with those Sponsored posts.</p>
+
+<p><em>This article is brought to you by Tom Maddox.</em></p>
+
+<p><em>PS, did you know you can join <a href="http://go.blokada.org/blog_insiders">Blokada Insiders</a> and help run the project? For example, you can be managing the voting like this one. It&rsquo;s totally free and doesn&rsquo;t take much time. You are welcome to join us!</em></p>
+
+  </div>
+  
+</div>
+
+
+
+
+
+<div>
+  <p style="text-align:center;font-style:italic;">Have comments? Discuss this post <a href="http://go.blokada.org/chat">on our chat</a>!
+</div>
+
+<script src="https://block.blokada.org/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+
