@@ -6,10 +6,19 @@
     <description>Recent content on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 07:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 07:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Ethics of Ad-Blocking</title>
+      <link>https://block.blokada.org/post/2019/05/27/on-the-ethics-of-ad-blocking/</link>
+      <pubDate>Mon, 27 May 2019 07:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2019/05/27/on-the-ethics-of-ad-blocking/</guid>
+      <description>Some time ago, I had a conversation with a fellow college alumnus wherein he asserted that ad-blocking is unethical on the grounds that it deprives content creators of revenue. The argument is a simple one, and not without merit: the content creators of the Web deserve to get paid for their work, and the primary channel by which they do so is advertising, so if you want your favorite news sites, comic artists, video entertainers, etc.</description>
+    </item>
     
     <item>
       <title>HTTPS Filtering</title>
