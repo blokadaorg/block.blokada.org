@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://block.blokada.org/post/2019/06/26/big-changes-in-blokada-v4/</loc>
+    <lastmod>2019-06-26T07:40:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://block.blokada.org/post/2019/05/27/on-the-ethics-of-ad-blocking/</loc>
     <lastmod>2019-05-27T07:00:00+01:00</lastmod>
   </url>
@@ -134,13 +139,13 @@
   
   <url>
     <loc>https://block.blokada.org/post/</loc>
-    <lastmod>2019-05-27T07:00:00+01:00</lastmod>
+    <lastmod>2019-06-26T07:40:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://block.blokada.org/</loc>
-    <lastmod>2019-05-27T07:00:00+01:00</lastmod>
+    <lastmod>2019-06-26T07:40:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

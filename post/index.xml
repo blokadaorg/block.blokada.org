@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2019 07:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 07:40:00 +0200</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big changes in Blokada v4</title>
+      <link>https://block.blokada.org/post/2019/06/26/big-changes-in-blokada-v4/</link>
+      <pubDate>Wed, 26 Jun 2019 07:40:00 +0200</pubDate>
+      
+      <guid>https://block.blokada.org/post/2019/06/26/big-changes-in-blokada-v4/</guid>
+      <description>Blokada v4 is out for two days and it seems you like it, the group on Telegram has 304 new joiners at the moment I write this article, the social sites are buzzing. We would like to thank you to welcome the new version. There are 2 big changes in v4, and I am sure you already aware of them. Please let me address the questions around them.
+The first big change is the User Interface (UI).</description>
+    </item>
     
     <item>
       <title>On the Ethics of Ad-Blocking</title>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Big changes in Blokada v4 &middot; The Block</title>
+
+  
+  <link rel="stylesheet" href="https://block.blokada.org/css/poole.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/hyde.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/hyde-x.css">
+  <link rel="stylesheet" href="https://block.blokada.org/css/highlight/github.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/blokada.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://block.blokada.org/touch-icon-144-precomposed.png">
+  <link href="https://block.blokada.org/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="The Block is a blog about ad blocking and ad blockers. It&#39;s also home of Blokada - an open source project building the best ad blocker for Android.">
+  <meta name="keywords" content="adblocker,adblocking,blokada,android,apps,ads,privacy,tracking">
+  
+</head>
+<body class="theme-base-blokada layout-reverse">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div style="width: 148px; margin: 0 auto;">
+      <a href="http://blokada.org"><img src="https://block.blokada.org/logo.png"
+           alt="logo" title="The Block"></a>
+    </div>
+
+    <p class="sidebar-nav" style="text-align: center;">
+      <a href="https://block.blokada.org/">The Block</a>
+       | <a href="https://block.blokada.org/post/2016/12/13/about/">About</a>
+       | <a href="https://block.blokada.org/post/2018/03/20/blokada-insiders/">Blokada Insiders</a>
+       | <a href="http://blokada.org/#download">Download</a>
+    </p>
+
+    <p class="sidebar-nav" style="text-align: center;">
+      <a href="http://go.blokada.org/dev_home"><i class="fa fa-github-square fa-2x"></i></a>
+      
+      
+      
+      <a href="http://go.blokada.org/social_gplus"><i class="fa fa-google-plus-square fa-2x"></i></a>
+      <a href="http://go.blokada.org/social_facebook"><i class="fa fa-facebook-square fa-2x"></i></a>
+      <a href="http://go.blokada.org/social_twitter"><i class="fa fa-twitter-square fa-2x"></i></a>
+      <a href="http://go.blokada.org/social_youtube"><i class="fa fa-youtube-square fa-2x"></i></a>
+      <a href="https://block.blokada.org/index.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-2x"></i></a>
+    </p>
+
+    
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">Big changes in Blokada v4</h1>
+    <span class="post-date">Jun 26, 2019 &middot; by Peter Roth 
+    </span>
+    <p>Blokada v4 is out for two days and it seems you like it, the group on Telegram has 304 new joiners at the moment I write this article, the social sites are buzzing. We would like to thank you to welcome the new version.
+There are 2 big changes in v4, and I am sure you already aware of them. Please let me address the questions around them.</p>
+
+<p>The first big change is the User Interface (UI). It was simple in v3. And, a bit already overloaded. There was no space to add new features, for example the domain blocking monitor or the status of Blokada and the VPN, and with the requested and planned features, space is very needed. Stretching the UI of v3 would make no good.
+Additionally, we saw the increasing number of users with Android boxes, TVs. Blokada v3 wasn&rsquo;t designed for those devices, navigating with the remote controller wasn&rsquo;t easy at all. To have the same user experience on a phone, on tablet, Android box or TV, a redesign was necessary.
+This is why the new interface is introduced. It seems a bit messy for the first time, but the logic behind is easy to understand, it divided to 3 sections:
+- First screen is the main page, with status information about Blokada’s and the VPN&rsquo;s status. If you swipe up from the bottom of the screen, you find the most used switches: the VPN gateway selector and the DNS changer on the right side. As features will be added, you&rsquo;ll find more and more things here.
+- Second screen is &ldquo;Ad blocking&rdquo;, provides you information about what is being allowed or blocked. Swipe up and you can see all the related things: the list of blocked hosts, the individual domain blocks on the second page, the allowed hosts on the 3rd, and so on. System apps can be found on the last page on the right.
+- Third screen is what you visit maybe once or twice: Settings. It already shows you a few of them, but the detailed list is available in the submenu if you swipe up.
+You can find a shield in the top left corner on every screen. You can activate and deactivate Blokada with that. The waves, coming out from the shield are representing the domain queries: the light greys are the allowed queries while the orange ones are the blocked. Cool, isn&rsquo;t it?</p>
+
+<p>Another big change that v4 introduced is the VPN functionality.
+Blokada uses the VPN API of the device, thus, you can&rsquo;t connect to such service if Blokada is running. To overcome the situation, Blokada has its own VPN that can be accessed while filtering is enabled.
+The VPN provides security, privacy and anonymity on the internet. Masking the user&rsquo;s real IP address it makes content that is restricted for the user, available.
+While the main feature, filtering ads is free and remains free, this service is subscription based, costs 5€/month, and it is off by default.
+At the moment of writing the article there are 2 gateways, one in New York and one in Stockholm. Based on our tests, they provide great speed and reliability, streaming HD video wasn&rsquo;t an issue at all and the phone didn&rsquo;t consume much more battery.
+When you subscribe, you need to provide your e-mail address and, of course, the card details. This information is necessary to be compliant with the law and regulations, they are not bound with the 12 character long random ID that identifies you on our network. That is being said, this unique ID should not be shared with others. Only the servers use the ID, and they do not track you, neither your internet activity. As the ID and the information you provide at the subsciption are handled separately, we can not identify you on our network.</p>
+
+<p>In the meantime, Blokada remains free and open source, the team works to make the app better and ship all the features to provide you more security, protect your data and privacy.</p>
+
+<p>*If you have questions or ideas, join our <a href="https://go.blokada.org/chat">Telegram channel</a> and let&rsquo;s have a chat!</p>
+
+<p>Sincerely yours,
+The restless Blokada team:
+Karol, Sebastian, Johnny, Pascal and Peter</p>
+
+  </div>
+  
+</div>
+
+
+
+
+
+<div>
+  <p style="text-align:center;font-style:italic;">Have comments? Discuss this post <a href="http://go.blokada.org/chat">on our chat</a>!
+</div>
+
+<script src="https://block.blokada.org/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+
