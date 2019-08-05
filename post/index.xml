@@ -6,10 +6,20 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 12:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 16:49:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freedom Isn&#39;t Free: VPN Edition</title>
+      <link>https://block.blokada.org/post/2019/08/05/freedom-isnt-free-vpn-edition/</link>
+      <pubDate>Mon, 05 Aug 2019 16:49:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2019/08/05/freedom-isnt-free-vpn-edition/</guid>
+      <description>Freedom Isn&amp;rsquo;t Free: VPN Edition
+In The Block&amp;rsquo;s last article, we covered what a VPN is and how it works, with a particular focus on the VPN used by Blokada itself. As a discerning consumer of technology, you might be interested in using a VPN elsewhere besides your Android phone. To get started, you may well want to use a free VPN—after all, why not take the opportunity to dip your toe in before going for a swim?</description>
+    </item>
     
     <item>
       <title>What is VPN</title>
