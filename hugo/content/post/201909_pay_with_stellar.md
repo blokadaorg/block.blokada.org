@@ -6,7 +6,7 @@ author = "Karol"
 
 +++
 
-We have been positively surprised by your interest in Blokada VPN. Over the last several weeks we have been working hard to improve it and provide features you ask for. Among other things, we have added multi device support, improved the UI design based on your feedback, added support for x86 devices, and integrated several payment options. Today, we are adding another way to get access to Blokada VPN - using Stellar platform. Here I explain how to start, and how to use it to purchase Blokada VPN, without paying.  
+We have been positively surprised by your interest in Blokada VPN. Over the last several weeks we have been working hard to improve it and provide features you ask for. Among other things, we have added multi device support, improved the UI design based on your feedback, added support for x86 devices and integrated several payment options. Today, we are adding another way to get access to Blokada VPN - using the Stellar platform. Here I explain how to start, and how to use it to purchase Blokada VPN, without paying.  
 
 ### What is Stellar?
 
@@ -16,11 +16,11 @@ We have been positively surprised by your interest in Blokada VPN. Over the last
 
 [Keybase](https://keybase.io/download) is a messaging app as well as a cryptocurrency wallet. It's a great way to start using Stellar.
 
-### Why to use Stellar to get Blokada VPN?
+### Why use Stellar to get Blokada VPN?
 
 - No fees paid to banks
 - Payment is very fast and simple
-- No need to provide email address
+- No need to provide an email address
 
 Last but not least, there are several ways to earn free Stellar Lumens, which you can use to get access to Blokada VPN for free!
 
