@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The Block - All about ad blockers and ad blocking.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2019 16:49:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 07:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://block.blokada.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to get free access to Blokada VPN using Stellar</title>
+      <link>https://block.blokada.org/post/2019/09/18/how-to-get-free-access-to-blokada-vpn-using-stellar/</link>
+      <pubDate>Wed, 18 Sep 2019 07:00:00 +0100</pubDate>
+      
+      <guid>https://block.blokada.org/post/2019/09/18/how-to-get-free-access-to-blokada-vpn-using-stellar/</guid>
+      <description>We have been positively surprised by your interest in Blokada VPN. Over the last several weeks we have been working hard to improve it and provide features you ask for. Among other things, we have added multi device support, improved the UI design based on your feedback, added support for x86 devices, and integrated several payment options. Today, we are adding another way to get access to Blokada VPN - using Stellar platform.</description>
+    </item>
     
     <item>
       <title>Freedom Isn&#39;t Free: VPN Edition</title>
